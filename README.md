@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Putra Irvan!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+Work with love.  
 
 ### Tools:
 <p>
@@ -10,5 +10,5 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 ### Let's connect!
 <p>
     <a href="https://putrairvan.skom.id" target="blank"><img src="https://img.shields.io/badge/Website-https://putrairvan.skom.id-green?" /></a>
-    <a href="https://twitter.com/secgoy" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://twitter.com/secgoy" target="blank"><img src="https://img.shields.io/badge/@secgoy-30302f?style=flat&logo=twitter" /></a>
 </p>
