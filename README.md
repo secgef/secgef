@@ -4,7 +4,9 @@ Salam kenal semuanya.
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio-blue" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Notepad-green" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Notepad-green" 
+    <img src="https://img.shields.io/badge/Text%20Editor-Notepad%20%2B%2B-soft%20green"      
+         
 </p>
 
 ### Let's connect!
