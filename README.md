@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Putra Irvan!
-Work with love.  
+Salam kenal semuanya.  
 
 ### Tools:
 <p>
@@ -9,6 +9,9 @@ Work with love.
 
 ### Let's connect!
 <p>
-    <a href="https://putrairvan.skom.id" target="blank"><img src="https://img.shields.io/badge/Website-https://putrairvan.skom.id-green?" /></a>
+    <a href="https://putrairvan.skom.id/social" target="blank"><img src="https://img.shields.io/badge/Website-Putra Irvan Site-green?" /></a>
+     <a href="https://twitter.com/secgoy" target="blank"><img src="https://img.shields.io/badge/@secgoy-30302f?style=flat&logo=facebook" /></a>
+    <a href="https://twitter.com/secgoy" target="blank"><img src="https://img.shields.io/badge/@secgoy-30302f?style=flat&logo=github" /></a>
+    <a href="https://twitter.com/secgoy" target="blank"><img src="https://img.shields.io/badge/@secgoy-30302f?style=flat&logo=instagram" /></a>
     <a href="https://twitter.com/secgoy" target="blank"><img src="https://img.shields.io/badge/@secgoy-30302f?style=flat&logo=twitter" /></a>
 </p>
