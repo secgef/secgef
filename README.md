@@ -3,8 +3,8 @@ Salam kenal semuanya.
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Notepad?&logo=Notepad&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio-blue" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Notepad-green" />
 </p>
 
 ### Let's connect!
