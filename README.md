@@ -23,4 +23,6 @@ Salam kenal semuanya.
     <img src="https://gpvc.arturio.dev/secgoh" />
     <img alt="Mozilla HTTP Observatory Grade" src="https://img.shields.io/mozilla-observatory/grade/github.com?publish">
     <a href="https://putrairvan.skom.id/social" target="blank"><img src="https://img.shields.io/badge/Website-Putra Irvan Site-green?" /></a>
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fputrairvan.skom.id">
+    <img alt="Chromium HSTS preload" src="https://img.shields.io/hsts/preload/github.com">
 </p>
