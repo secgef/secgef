@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Putra Irvan!
 Salam kenal semuanya.  
 
-### Tools:
+### Peralatan :
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio-blue" />
     <img src="https://img.shields.io/badge/Text%20Editor-Notepad-green" />
@@ -9,7 +9,7 @@ Salam kenal semuanya.
          
 </p>
 
-### Let's connect!
+### Sosial Media :
 <p>
     <a href="https://facebook.com/secgoy" target="blank"><img src="https://img.shields.io/badge/@secgoy-30302f?style=flat&logo=facebook" /></a>
     <a href="https://github.com/secgoy" target="blank"><img src="https://img.shields.io/badge/@secgoy-30302f?style=flat&logo=github" /></a>
@@ -22,7 +22,8 @@ Salam kenal semuanya.
 <p>
     <img src="https://gpvc.arturio.dev/secgoh" />
     <img alt="Mozilla HTTP Observatory Grade" src="https://img.shields.io/mozilla-observatory/grade/github.com?publish">
-    <a href="https://putrairvan.skom.id/social" target="blank"><img src="https://img.shields.io/badge/Website-Putra Irvan Site-green?" /></a>
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fputrairvan.skom.id">
     <img alt="Chromium HSTS preload" src="https://img.shields.io/hsts/preload/github.com">
+    ===
+    <a href="https://putrairvan.skom.id/social" target="blank"><img src="https://img.shields.io/badge/Website-Putra Irvan Site-green?" /></a>
 </p>
