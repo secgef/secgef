@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Putra Irvan!
+# Hai 👋 , Saya Putra Irvan!
 Salam kenal semuanya.  
 
 ### Peralatan :
