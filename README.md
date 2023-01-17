@@ -11,7 +11,6 @@ Salam kenal semuanya.
 
 ### Let's connect!
 <p>
-    <a href="https://facebook.com/secgoy" target="blank"><img src="https://img.shields.io/badge/@secgoy-30302f?style=flat&logo=email" /></a>
     <a href="https://facebook.com/secgoy" target="blank"><img src="https://img.shields.io/badge/@secgoy-30302f?style=flat&logo=facebook" /></a>
     <a href="https://github.com/secgoy" target="blank"><img src="https://img.shields.io/badge/@secgoy-30302f?style=flat&logo=github" /></a>
     <a href="https://instagram.com/secgoy" target="blank"><img src="https://img.shields.io/badge/@secgoy-30302f?style=flat&logo=instagram" /></a>
