@@ -4,8 +4,7 @@ Salam kenal semuanya.
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Notepad?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/secgoh" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Notepad?&logo=Notepad&logoColor=blue" />
 </p>
 
 ### Let's connect!
@@ -16,4 +15,9 @@ Salam kenal semuanya.
     <a href="https://instagram.com/secgoy" target="blank"><img src="https://img.shields.io/badge/@secgoy-30302f?style=flat&logo=instagram" /></a>
     <a href="https://mstdn.id/@temz" target="blank"><img src="https://img.shields.io/badge/@secgoy-30302f?style=flat&logo=mastodon" /></a>
     <a href="https://twitter.com/secgoy" target="blank"><img src="https://img.shields.io/badge/@secgoy-30302f?style=flat&logo=twitter" /></a>
+</p>
+
+### Lainnya :
+<p>
+        <img src="https://gpvc.arturio.dev/secgoh"/>
 </p>
