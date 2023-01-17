@@ -20,6 +20,7 @@ Salam kenal semuanya.
 
 ### Lainnya :
 <p>
-    <img src="https://gpvc.arturio.dev/secgoh"/>
+    <img src="https://gpvc.arturio.dev/secgoh" />
+    <img alt="Mozilla HTTP Observatory Grade" src="https://img.shields.io/mozilla-observatory/grade/github.com?publish">
     <a href="https://putrairvan.skom.id/social" target="blank"><img src="https://img.shields.io/badge/Website-Putra Irvan Site-green?" /></a>
 </p>
