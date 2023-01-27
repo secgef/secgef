@@ -9,16 +9,6 @@ Salam kenal semuanya.
          
 </p>
 
-### Sosial Media :
-<p>
-    <a href="https://facebook.com/secgoh" target="blank"><img src="https://img.shields.io/badge/@secgoh-30302f?style=flat&logo=facebook" /></a>
-    <a href="https://github.com/secgoh" target="blank"><img src="https://img.shields.io/badge/@secgoh-30302f?style=flat&logo=github" /></a>
-    <a href="https://instagram.com/secgoh" target="blank"><img src="https://img.shields.io/badge/@secgoh-30302f?style=flat&logo=instagram" /></a>
-    <a href="https://mstdn.id/@temz" target="blank"><img src="https://img.shields.io/badge/@secgoy-30302f?style=flat&logo=mastodon" /></a>
-    <a href="https://twitter.com/secgoh" target="blank"><img src="https://img.shields.io/badge/@secgoh-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.youtube.com/watch?v=0E7OxUzuNOg" target="blank"><img src="https://img.shields.io/badge/Lagu Noah 1 Album-30302f?style=flat&logo=youtube" /></a>
-</p>
-
 ### Lainnya :
 <p>
     <img src="https://gpvc.arturio.dev/secgoh" />
